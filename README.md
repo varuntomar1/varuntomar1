@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">I'm Varun Tomar works works as a Full Stack Developer.</h3>
+<h3 align="left">I'm Varun Tomar works as a Full Stack Developer.</h3>
 
 ###
 
@@ -65,7 +65,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/varuntomar1/varuntomar1/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/varuntomar1/output/snake.svg" alt="Snake animation" />
 
 ###
 
